@@ -1,6 +1,11 @@
-import numpy
-import pandas
-import scipy
-import matplotlib
-import seaborn
-import scikit-learn
+pip install numpy
+
+pip install pandas
+
+pip install scipy
+
+pip install matplotlib
+
+pip install seaborn
+
+pip install scikit-learn
